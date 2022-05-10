@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mossfrpfabricsupport",
+  "version": "1.0",
+
+  "name": "MossFrp Fabric Support",
+  "description": "MossFrp support mod for fabric.",
+  "authors": [
+    "MossCG"
+  ],
+  "contact": {
+    "homepage": "https://www.mossfrp.top/",
+    "sources": "https://github.com/MossFrp"
+  },
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.mossmc.mosscg.MossFrpFabricSupport.MossFrpFabricSupport"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
