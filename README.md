@@ -1,0 +1,2 @@
+# MossFrpClient-Java-FabricSupport
+MossFrp的Java版客户端Fabric支持模组仓库
